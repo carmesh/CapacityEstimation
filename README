@@ -1,0 +1,11 @@
+The programme "bianchi_model11M.cpp" computes the saturation throughput for a cell composed of a set of users connected to an AP 
+ 
+The assumed technology is the IEEE802.11b operating at 11Mbps
+
+To launch the program, you should execute the .sh file by typing on a terminal the folloxing command ./bianchi_model11M.cpp
+A .txt file called result.txt is generated in which obtained results are presented into 4 colomns
+	1st colomn expresses the number of stations 
+	2nd colomn expresses the collision probability
+	3rd colomn expresses the successul transmission probability
+	4th colomn the saturated throughput
+
